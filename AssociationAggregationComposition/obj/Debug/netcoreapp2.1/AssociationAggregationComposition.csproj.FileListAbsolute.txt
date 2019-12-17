@@ -1,0 +1,11 @@
+E:\Kingston\ProgrammingAndPatterns Nots\Codes\AAC\AssociationAggregationComposition\bin\Debug\netcoreapp2.1\AssociationAggregationComposition.deps.json
+E:\Kingston\ProgrammingAndPatterns Nots\Codes\AAC\AssociationAggregationComposition\bin\Debug\netcoreapp2.1\AssociationAggregationComposition.runtimeconfig.json
+E:\Kingston\ProgrammingAndPatterns Nots\Codes\AAC\AssociationAggregationComposition\bin\Debug\netcoreapp2.1\AssociationAggregationComposition.runtimeconfig.dev.json
+E:\Kingston\ProgrammingAndPatterns Nots\Codes\AAC\AssociationAggregationComposition\bin\Debug\netcoreapp2.1\AssociationAggregationComposition.dll
+E:\Kingston\ProgrammingAndPatterns Nots\Codes\AAC\AssociationAggregationComposition\bin\Debug\netcoreapp2.1\AssociationAggregationComposition.pdb
+E:\Kingston\ProgrammingAndPatterns Nots\Codes\AAC\AssociationAggregationComposition\obj\Debug\netcoreapp2.1\AssociationAggregationComposition.csprojAssemblyReference.cache
+E:\Kingston\ProgrammingAndPatterns Nots\Codes\AAC\AssociationAggregationComposition\obj\Debug\netcoreapp2.1\AssociationAggregationComposition.csproj.CoreCompileInputs.cache
+E:\Kingston\ProgrammingAndPatterns Nots\Codes\AAC\AssociationAggregationComposition\obj\Debug\netcoreapp2.1\AssociationAggregationComposition.AssemblyInfoInputs.cache
+E:\Kingston\ProgrammingAndPatterns Nots\Codes\AAC\AssociationAggregationComposition\obj\Debug\netcoreapp2.1\AssociationAggregationComposition.AssemblyInfo.cs
+E:\Kingston\ProgrammingAndPatterns Nots\Codes\AAC\AssociationAggregationComposition\obj\Debug\netcoreapp2.1\AssociationAggregationComposition.dll
+E:\Kingston\ProgrammingAndPatterns Nots\Codes\AAC\AssociationAggregationComposition\obj\Debug\netcoreapp2.1\AssociationAggregationComposition.pdb
